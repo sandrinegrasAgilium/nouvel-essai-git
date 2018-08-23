@@ -1,0 +1,1 @@
+Document 3 pour tester la fusion de deux branches
